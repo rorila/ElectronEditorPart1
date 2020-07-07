@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "electromon": "^1.0.10",
-    "electron": "^2.0.8"
+    "electron": "^9.1.0"
   }
 }
